@@ -1,7 +1,6 @@
 <div align="center">
   <br />
-<<<<<<< HEAD
-    <a href="https://www.youtube.com/watch?v=AW1yfBKRMKc" target="_blank">
+
 =======
 >>>>>>> 83529361c81764e293a5fae9cb3971d945eb0655
       <img src="public/readme/hero.png" alt="Project Banner">
@@ -14,15 +13,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </div>
 
-  <h3 align="center">Stunning GSAP Cocktail Website</h3>
-
-<<<<<<< HEAD
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-=======
->>>>>>> 83529361c81764e293a5fae9cb3971d945eb0655
-</div>
+  <h3 align="center">Stunning GSAP Cocktail Website</h3>>
 
 ## 📋 <a name="table">Table of Contents</a>
 
