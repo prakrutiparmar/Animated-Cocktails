@@ -2,7 +2,7 @@
 
 Interactive, animated cocktails showcase built with **Next.js**, **React**, **Tailwind CSS**, and **GSAP** — a visual and playful frontend project demonstrating smooth micro-interactions and animated UI components.
 
-Live demo: _Add your deployed URL here (e.g., Vercel link)_
+Live demo: [Vercel link)](https://animated-cocktails-ivory.vercel.app/)
 
 ---
 
